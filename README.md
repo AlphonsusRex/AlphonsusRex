@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @AlphonsusRex
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-AlphonsusRex/AlphonsusRex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Hola, soy AlphonsusRex .
 
 Me interesa la robotica educacional, creo que tenemos un futuro en el que los robots van a ser  si no lo son ya  dispositivos  con los que vamos a interaccioar 
